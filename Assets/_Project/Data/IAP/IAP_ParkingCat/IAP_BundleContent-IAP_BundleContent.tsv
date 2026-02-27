@@ -1,0 +1,48 @@
+BundleKey	ItemType	Amount	IsMain
+상품 키(mcs_Product 참조)	보상 타입(ItemType)	수량/분	대표 보상 여부
+starterpack1_99	Coin	2000	FALSE
+starterpack1_99	UnlimitedLivesMin	60	FALSE
+starterpack1_99	DoubleStageRewardsMin	60	FALSE
+starterpack1_99	Boosters	1	FALSE
+			
+gift_pack_1	Coin	6000	TRUE
+gift_pack_1	UnlimitedLivesMin	30	FALSE
+gift_pack_1	DoubleStageRewardsMin	30	FALSE
+gift_pack_1	Boosters	1	FALSE
+			
+gift_pack_2	Coin	14000	TRUE
+gift_pack_2	UnlimitedLivesMin	60	FALSE
+gift_pack_2	DoubleStageRewardsMin	60	FALSE
+gift_pack_2	Boosters	2	FALSE
+			
+gift_pack_3	Coin	28000	TRUE
+gift_pack_3	UnlimitedLivesMin	360	FALSE
+gift_pack_3	DoubleStageRewardsMin	360	FALSE
+gift_pack_3	Boosters	4	FALSE
+			
+gift_pack_4	Coin	60000	TRUE
+gift_pack_4	UnlimitedLivesMin	720	FALSE
+gift_pack_4	DoubleStageRewardsMin	720	FALSE
+gift_pack_4	Boosters	8	FALSE
+			
+gift_pack_5	Coin	100000	TRUE
+gift_pack_5	UnlimitedLivesMin	1440	FALSE
+gift_pack_5	DoubleStageRewardsMin	1440	FALSE
+gift_pack_5	Boosters	12	FALSE
+			
+gift_pack_6	Coin	240000	TRUE
+gift_pack_6	UnlimitedLivesMin	4320	FALSE
+gift_pack_6	DoubleStageRewardsMin	4320	FALSE
+gift_pack_6	Boosters	25	FALSE
+			
+coinpack1_299	Coin	6000	TRUE
+coinpack2_499	Coin	12000	TRUE
+coinpack3_899	Coin	25000	TRUE
+coinpack4_1599	Coin	50000	TRUE
+coinpack5_2999	Coin	100000	TRUE
+coinpack6_5599	Coin	200000	TRUE
+			
+removeads7day_99	RemoveAds	7	TRUE
+removeads7day_99	Coin	2000	FALSE
+removeads7day_99	UnlimitedLivesMin	60	FALSE
+removeads7day_99	Boosters	1	FALSE

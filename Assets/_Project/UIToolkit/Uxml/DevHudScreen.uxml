@@ -1,0 +1,46 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/_Project/UIToolkit/Uss/DevHud.uss?fileID=7433441132597879392&amp;guid=f0a1287723ce1481e8ad2dbde8f30d94&amp;type=3#DevHud"/>
+    <ui:VisualElement name="DevHudTriggerArea" class="devhud-trigger-area"/>
+    <ui:VisualElement name="DevHudRoot" class="devhud-root">
+        <ui:VisualElement name="Overlay" class="devhud-overlay"/>
+        <ui:VisualElement name="Panel" class="devhud-panel">
+            <ui:VisualElement class="devhud-header">
+                <ui:Label text="DEV HUD" class="devhud-title"/>
+                <ui:Label name="BuildLabel" text="Build: -" class="devhud-subtitle"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="LockSection" class="devhud-section">
+                <ui:Label text="Password" class="devhud-section-title"/>
+                <ui:VisualElement class="devhud-row">
+                    <ui:TextField name="PasswordField" label="PW" is-password-field="true" class="devhud-textfield"/>
+                    <ui:Button name="UnlockButton" text="Unlock" class="devhud-button primary"/>
+                </ui:VisualElement>
+                <ui:HelpBox name="AuthHelpBox" text="Locked" message-type="Info" class="devhud-helpbox"/>
+            </ui:VisualElement>
+            <ui:VisualElement name="StageSection" class="devhud-section hidden">
+                <ui:Label text="Stage Jump" class="devhud-section-title"/>
+                <ui:VisualElement class="devhud-row">
+                    <ui:Label text="Current:" class="devhud-label"/>
+                    <ui:Label name="CurrentStageLabel" text="-" class="devhud-value"/>
+                    <ui:VisualElement class="devhud-spacer"/>
+                    <ui:Button name="ReloadButton" text="Reload" class="devhud-button"/>
+                </ui:VisualElement>
+                <ui:VisualElement class="devhud-row">
+                    <ui:Button name="PrevStageButton" text="&#9664; Prev" class="devhud-button"/>
+                    <ui:Button name="NextStageButton" text="Next &#9654;" class="devhud-button"/>
+                </ui:VisualElement>
+                <ui:VisualElement class="devhud-row">
+                    <ui:IntegerField name="StageIndexField" label="Index" value="1" class="devhud-intfield"/>
+                    <ui:Button name="GoIndexButton" text="Go" class="devhud-button primary"/>
+                </ui:VisualElement>
+                <ui:VisualElement class="devhud-row">
+                    <ui:DropdownField name="StageDropdown" label="Stage" class="devhud-dropdown"/>
+                    <ui:Button name="GoDropdownButton" text="Load" class="devhud-button primary"/>
+                </ui:VisualElement>
+                <ui:HelpBox name="StageHelpBox" text="Ready" message-type="None" class="devhud-helpbox"/>
+            </ui:VisualElement>
+            <ui:VisualElement class="devhud-footer">
+                <ui:Button name="CloseButton" text="Close" class="devhud-button"/>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

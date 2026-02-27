@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 53941cd19d9924620974e0cab7f23061
+  m_SerializeEntries:
+  - m_GUID: 07c7993a33bff43bdb716ea173869ac8
+    m_Address: Assets/_Project/Localization/UI_StageFailed Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52b778a5cd5344216a46848b7376b01b
+    m_Address: Assets/_Project/Localization/UI_HeartRefill Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e951d96882de4a6880816b6f82cf72a
+    m_Address: Assets/_Project/Localization/UI_Settings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a81df8b4851114dceb33b014b7914cdc
+    m_Address: Assets/_Project/Localization/UI_Shop Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0928f35b997645c1980b82733a1f077
+    m_Address: Assets/_Project/Localization/UI_Gimmick Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: d613ada5cc8634b5bba176ee24325b92, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f0c733f4c1d304c6893c6bc3427a2318, type: 2}
+    - {fileID: 11400000, guid: 4c40a73b5944c460ea7d7bed1594eff3, type: 2}

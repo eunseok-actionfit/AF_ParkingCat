@@ -1,0 +1,35 @@
+﻿{
+  "mode": "EnumDefinitionJson",
+  "rows": [
+    {
+      "ItemType": "Coin",
+      "ItemId": "",
+      "ValueInGem": "0"
+    },
+    {
+      "ItemType": "UnlimitedLivesMin",
+      "ItemId": "",
+      "ValueInGem": "0"
+    },
+    {
+      "ItemType": "Booster",
+      "ItemId": "Undo",
+      "ValueInGem": "0"
+    },
+    {
+      "ItemType": "Booster",
+      "ItemId": "Shuffle",
+      "ValueInGem": "0"
+    },
+    {
+      "ItemType": "Booster",
+      "ItemId": "AddColumn",
+      "ValueInGem": "0"
+    },
+    {
+      "ItemType": "RemoveAds",
+      "ItemId": "",
+      "ValueInGem": "0"
+    }
+  ]
+}

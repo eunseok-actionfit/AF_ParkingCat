@@ -1,0 +1,154 @@
+.devhud-root {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.55);
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-panel {
+    position: absolute;
+    right: 24px;
+    top: 24px;
+    width: 420px;
+    max-height: 90%;
+    padding: 14px;
+    background-color: rgba(18, 18, 18, 0.95);
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-color: rgba(255, 255, 255, 0.15);
+    border-right-color: rgba(255, 255, 255, 0.15);
+    border-top-color: rgba(255, 255, 255, 0.15);
+    border-bottom-color: rgba(255, 255, 255, 0.15);
+    border-radius: 12px;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-header {
+    margin-bottom: 10px;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-title {
+    font-size: 20px;
+    -unity-font-style: bold;
+    color: white;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-subtitle {
+    margin-top: 2px;
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.75);
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-section {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top-width: 1px;
+    border-top-color: rgba(255, 255, 255, 0.1);
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-section-title {
+    font-size: 13px;
+    -unity-font-style: bold;
+    margin-bottom: 6px;
+    color: rgba(255, 255, 255, 0.9);
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-row {
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 6px;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-row.wrap {
+    flex-wrap: wrap;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-spacer {
+    flex-grow: 1;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-label {
+    color: rgba(255, 255, 255, 0.75);
+    margin-right: 6px;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-value {
+    color: white;
+    -unity-font-style: bold;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-textfield,
+.devhud-intfield,
+.devhud-dropdown {
+    flex-grow: 1;
+    margin-right: 8px;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+    color: rgb(0, 150, 178);
+}
+
+.devhud-button {
+    height: 28px;
+    min-width: 78px;
+    margin-left: 0;
+    margin-right: 0;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-button.primary {
+    background-color: rgba(70, 140, 255, 0.9);
+    color: white;
+    -unity-font-style: bold;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-helpbox {
+    margin-top: 8px;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.hidden {
+    display: none;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-footer {
+    margin-top: 14px;
+    flex-direction: row;
+    justify-content: flex-end;
+     -unity-font-definition: url("project://database/Assets/@ActionFit_Plugin/Resource/Font/common.ttf?fileID=12800000&guid=0c933588623b2486ab479c1ea30c306e&type=3#common");
+}
+
+.devhud-trigger-area {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    height: 48px;
+    opacity: 0;
+    display: flex;
+}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bbb309364aa4d78b46c68f57dec9d8b, type: 3}
+  m_Name: GameBoosterFeature
+  m_EditorClassIdentifier: Assembly-CSharp::AES.Tools.VContainer.Bootstrap.Framework.GameBoosterFeature
+  id: GameBoosterFeature
+  order: 0
+  dependsOn: []
+  enabledByDefault: 1
+  boosterSettings: {fileID: 11400000, guid: 528d907f31037428c8b124b357a70e07, type: 2}

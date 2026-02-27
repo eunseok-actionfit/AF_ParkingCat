@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b9245fb885449a3abe86efec5071f01, type: 3}
+  m_Name: New Shop Icon Table
+  m_EditorClassIdentifier: Assembly-CSharp::ShopIconTable
+  coin_6000: {fileID: 21300000, guid: 249c37ec24fd348b5888865d18a49012, type: 3}
+  coin_12000: {fileID: 21300000, guid: 23bcf2b894b004a86899488bcc35bd88, type: 3}
+  coin_250000: {fileID: 21300000, guid: 56e3ab2540d58455e9bb88560138dbc1, type: 3}
+  coin_500000: {fileID: 21300000, guid: b39b8ac9114bb42f0abb67ea1a220784, type: 3}
+  coin_1000000: {fileID: 21300000, guid: f53aa9c43825648e39883a66879f02bb, type: 3}
+  coin_2000000: {fileID: 21300000, guid: 9e32d22519a7c4b0987a12c2e21f0e5a, type: 3}
+  heart: {fileID: 21300000, guid: 22657553f56bf449e9aec2eab60e8587, type: 3}
+  boosterHint: {fileID: 21300000, guid: f0a81fb41d3004be89f22fbb3fb9ac8a, type: 3}
+  boosterUfo: {fileID: 21300000, guid: 26ebccbd3fb434965a8048baf84a21ce, type: 3}
+  removeAds: {fileID: 21300000, guid: d829968d13d4f4969acedf75b675920e, type: 3}

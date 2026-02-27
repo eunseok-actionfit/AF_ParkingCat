@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Gimmick_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c0928f35b997645c1980b82733a1f077, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 312726249472
+    m_Localized: HINT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388710260736
+    m_Localized: UFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440837070848
+    m_Localized: TRAFFIC LIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 606558216192
+    m_Localized: 2ND LANE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728595685376
+    m_Localized: ONE-WAY-ROAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 854202507264
+    m_Localized: AMBULANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 929670619136
+    m_Localized: CASH TRUCK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 989758218240
+    m_Localized: FIRE TRUCK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1194834518016
+    m_Localized: Highlights of a car that can escape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1249855397888
+    m_Localized: Remove the selected car.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1578340704256
+    m_Localized: Ignoring a red light reduces the number of moves by two.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1693826670592
+    m_Localized: The car turns at the nearest road.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808670908416
+    m_Localized: The car will not enter a one-way road in the wrong direction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1936634929152
+    m_Localized: Free the ambulance within the required moves, or you'll lose.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2032952926208
+    m_Localized: 'The cash transport truck is full of coins, but thieves keep stealing
+      them!
+
+      Hurry and move them to collect more coins!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2110023262208
+    m_Localized: If you fail to dispatch a fire truck and extinguish the fire within
+      the time limit, you lose.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

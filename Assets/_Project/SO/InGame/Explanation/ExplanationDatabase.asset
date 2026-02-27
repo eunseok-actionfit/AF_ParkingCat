@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 439101a809d34d0392d31a1c630efc70, type: 3}
+  m_Name: ExplanationDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::ParkingCat.Game.StageFailed.ExplanationDatabaseSO
+  entries:
+    _serializedList:
+    - Key: 0
+      Value: {fileID: 11400000, guid: 7a0b8ec6613af4fa0adae4a4d976f5a2, type: 2}
+    - Key: 1
+      Value: {fileID: 11400000, guid: 81419498f8f3947b1846c52463726a5b, type: 2}
+    - Key: 2
+      Value: {fileID: 11400000, guid: 74fb88ed999a942a2b8ee4ea8e296303, type: 2}
+    - Key: 3
+      Value: {fileID: 11400000, guid: 8676d0787658940a5960b037c216aa57, type: 2}
+    - Key: 4
+      Value: {fileID: 11400000, guid: c6c7414e67ff34713948ccc098c1253d, type: 2}
+    - Key: 5
+      Value: {fileID: 11400000, guid: 8be343a5605dd4aebb83c9bebd6f2412, type: 2}
+    - Key: 6
+      Value: {fileID: 11400000, guid: c60f5757b21da42f296f4cd42ef7be1e, type: 2}

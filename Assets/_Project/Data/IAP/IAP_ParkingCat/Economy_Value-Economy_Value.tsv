@@ -1,0 +1,8 @@
+ItemType	ItemId	ValueInGem
+보상 타입(ItemType)	세부 ID	젬 기준 가치(밸런스용)
+Coin		0
+UnlimitedLivesMin		0
+Booster	Undo	0
+Booster	Shuffle	0
+Booster	AddColumn	0
+RemoveAds		0

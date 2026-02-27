@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_Setting Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: UI_Setting
+  m_TableCollectionNameGuidString: 8e951d96882de4a6880816b6f82cf72a
+  m_Entries:
+  - m_Id: 6709829632
+    m_Key: settings.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223148498944
+    m_Key: settings.language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495107170304
+    m_Key: settings.restore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 555698085888
+    m_Key: settings.privacy_policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 661553930240
+    m_Key: settings.contact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 903808540672
+    m_Key: settings.retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 965045379072
+    m_Key: settings.quit
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3578298424293588992
+  references:
+    version: 2
+    RefIds:
+    - rid: 3578298424293588992
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1769061271538

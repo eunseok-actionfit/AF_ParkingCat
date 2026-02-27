@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1cba1210fc45cbba7281de729ddf79, type: 3}
+  m_Name: New Car Prefab Converter
+  m_EditorClassIdentifier: Assembly-CSharp::CarPrefabConverter
+  entries:
+  - Key: 0
+    Prefab: {fileID: 3228512854126940529, guid: a4d72695446c2453fbc492c2e61d100f, type: 3}
+  - Key: 1
+    Prefab: {fileID: 1397913084753305888, guid: b33a6832a1ffc40deba9593c955d70a9, type: 3}
+  - Key: 2
+    Prefab: {fileID: 5239333939078212805, guid: a50123a0dbaea4a37a587aebe258056a, type: 3}
+  defaultPrefab: {fileID: 3228512854126940529, guid: a4d72695446c2453fbc492c2e61d100f, type: 3}

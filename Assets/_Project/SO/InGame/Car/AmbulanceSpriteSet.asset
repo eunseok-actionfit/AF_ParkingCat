@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 967c8bb98db147ae9760765b3d5c6657, type: 3}
+  m_Name: AmbulanceSpriteSet
+  m_EditorClassIdentifier: Assembly-CSharp::ParkingCat.Presentation.CarSpriteSet
+  up: {fileID: 21300000, guid: 76a117968036c44e88a53cd77e60e219, type: 3}
+  right: {fileID: 21300000, guid: ffa767402b629485a9efca50a4650054, type: 3}
+  down: {fileID: 21300000, guid: dce43083c4c6d4542ad09d7c99596cf2, type: 3}
+  left: {fileID: 21300000, guid: ce73a1c37c62145609ba7d4d87d084bb, type: 3}

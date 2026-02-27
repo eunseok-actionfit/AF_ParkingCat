@@ -1,0 +1,17 @@
+ProductKey	ProductType	Category	IsVisible	Note
+상품 고유 키(내부키)	상품 타입(ProductType)	카테고리(Category)	노출 여부(TRUE/FALSE)	기획 메모
+coinpack1_299	Consumable	Coin	TRUE	"6,000 Coin"
+coinpack2_499	Consumable	Coin	TRUE	"12,000 Coin"
+coinpack3_899	Consumable	Coin	TRUE	"25,000 Coin"
+coinpack4_1599	Consumable	Coin	TRUE	"50,000 Coin"
+coinpack5_2999	Consumable	Coin	TRUE	"100,000 Coin"
+coinpack6_5599	Consumable	Coin	TRUE	"200,000 Coin"
+subscription3_999	Subscription	Special	TRUE	VIP Subscription(30일)
+starterpack1_99	Consumable	Special	TRUE	Starter Pack
+removeads7day_99	NonConsumable	Special	TRUE	No ADS
+gift_pack_1	Consumable	Bundle	TRUE	Starting Pack
+gift_pack_2	Consumable	Bundle	TRUE	Shift-Up Pack
+gift_pack_3	Consumable	Bundle	TRUE	Acceleration Pack
+gift_pack_4	Consumable	Bundle	TRUE	High Speed Pack
+gift_pack_5	NonConsumable	Bundle	TRUE	Super Speed Pack
+gift_pack_6	Consumable	Bundle	TRUE	Extreme Speed Pack

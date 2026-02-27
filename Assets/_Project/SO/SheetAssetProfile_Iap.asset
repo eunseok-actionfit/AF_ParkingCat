@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5bbc900be4c49319092f6111a02704f, type: 3}
+  m_Name: SheetAssetProfile_Iap
+  m_EditorClassIdentifier: AES.Tools.Editor::AES.IAP.Editor.Sheets.SheetAssetProfile_Iap
+  sheetId: 
+  serviceAccountJson: {fileID: 0}
+  sheets:
+  - name: Enum_Definition
+    tsv: {fileID: 2213920135882650261, guid: 3b27d5b19b1b3434793293ee1ad7618b, type: 3}
+    gid: 
+    mode: 0
+    uniqueKeyColumns: []
+    enumRefs: []
+  - name: IAP_Proudct
+    tsv: {fileID: 2213920135882650261, guid: 7796cbe6cc30e40c4bb8787027caa5e8, type: 3}
+    gid: 
+    mode: 1
+    uniqueKeyColumns: []
+    enumRefs: []
+  - name: IAP_BundleContent
+    tsv: {fileID: 2213920135882650261, guid: 1e2d11e1b371744d7a215353ce386dff, type: 3}
+    gid: 
+    mode: 3
+    uniqueKeyColumns: []
+    enumRefs: []
+  - name: IAP_StoreProduct
+    tsv: {fileID: 2213920135882650261, guid: 6fee537015ffc4ecd98eb606fb098b33, type: 3}
+    gid: 
+    mode: 2
+    uniqueKeyColumns: []
+    enumRefs: []

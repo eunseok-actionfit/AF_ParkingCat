@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 240af42250934407b059c438a1698977, type: 3}
+  m_Name: StorageFeature
+  m_EditorClassIdentifier: AES.Tools::AES.Tools.VContainer.Bootstrap.Framework.Features.StorageFeature
+  id: StorageFeature
+  order: 0
+  dependsOn: []
+  enabledByDefault: 1
+  storageProfile: {fileID: 11400000, guid: 845e374d492d14cc6a6d4b81870740af, type: 2}

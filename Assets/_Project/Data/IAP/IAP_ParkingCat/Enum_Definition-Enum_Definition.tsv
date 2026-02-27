@@ -1,0 +1,15 @@
+EnumName	EnumValue	DisplayName	Description	SortOrder	IsActive
+Enum 종류 이름	실제 값(키)	UI 표시 이름	설명	정렬 순서	사용 여부(TRUE/FALSE)
+ProductType	Consumable	Consumable	소모형 상품	1	TRUE
+ProductType	NonConsumable	Non-Consumable	비소모형 상품	2	TRUE
+ProductType	Subscription	Subscription	구독 상품	3	TRUE
+Platform	GP	Google Play	구글 플레이 스토어	1	TRUE
+Platform	IOS	App Store	애플 앱스토어	2	TRUE
+Category	Bundle	Bundle	번들 상품	1	TRUE
+Category	Coin	Coin	코인 상품	2	TRUE
+Category	Special	Special	특수 상품(광고제거 등)	3	TRUE
+ItemType	Coin	Coin	코인(재화)	1	TRUE
+ItemType	UnlimitedLivesMin	UnlimitedLives	무한하트(분)	2	TRUE
+ItemType	DoubleStageRewardsMin	DoubleStageRewardsMin	보상2배(분)	3	TRUE
+ItemType	Boosters	Booster	부스터 아이템들	3	TRUE
+ItemType	RemoveAds	RemoveAds	광고 제거	4	TRUE

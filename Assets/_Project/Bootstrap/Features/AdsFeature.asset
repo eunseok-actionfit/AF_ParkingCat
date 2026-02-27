@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c0118117b084d2a9446d54252bcf0e4, type: 3}
+  m_Name: AdsFeature
+  m_EditorClassIdentifier: AES.Tools::AES.Tools.VContainer.Bootstrap.Framework.Features.AdsFeature
+  id: AdsFeature
+  order: 0
+  dependsOn: []
+  enabledByDefault: 1
+  enableAds: 1
+  profiles:
+  - environment: 2
+    platform: 11
+    appOpen:
+      network: 1
+      adUnitId: ca-app-pub-9059121665920646/3185526957
+    banner:
+      network: 2
+      adUnitId: 292ca45e7de85268
+    interstitial:
+      network: 2
+      adUnitId: 8f462db760fbf5b2
+    rewarded:
+      network: 2
+      adUnitId: a73335dccb0d0777
+  - environment: 2
+    platform: 8
+    appOpen:
+      network: 1
+      adUnitId: ca-app-pub-9059121665920646/4573049601
+    banner:
+      network: 2
+      adUnitId: 6408551c5074b2b1
+    interstitial:
+      network: 2
+      adUnitId: cc14e86359dc9d7a
+    rewarded:
+      network: 2
+      adUnitId: a1ab5c1a0e53b5b6
+  currentEnvironment: 2
+  interstitialMinIntervalSeconds: 40
+  interstitialMaxPerSession: 10
+  adsRuntimeSettings:
+    interstitialMinIntervalSeconds: 40
+    interstitialMaxPerSession: 10
+    runtimeAdsDisabled: 0
+    appOpenMinBackgroundSeconds: 60
+    appOpenBlockAfterSensitiveSeconds: 10
+    appOpenResumeCooldownSeconds: 180
+  testDeviceCSV: {fileID: 4900000, guid: 81156ceae37004455b491abb103a485f, type: 3}
+  testDevices:
+    _serializedList:
+    - Key: Isawzombie
+      Value: 703dc24e-2fdd-4b04-a14f-bda5dc0a0b1a
+    - Key: ACTIONFIT Iphone5s
+      Value: A13B3BE7-AB9C-4CC7-BDB0-2566DF82003C
+    - Key: "\uC7AC\uD604(\uC544\uC774\uD3F0 14 \uD504\uB85C)"
+      Value: 29753EE8-982E-4C1D-B571-D10DD6C11F61
+    - Key: AF New Test Device
+      Value: d8935df9-5082-420f-a7f2-84b576fb886c
+    - Key: ACTIONFIT_Android_S22
+      Value: b5dc6026-4757-4239-9071-82f90e0412ab
+    - Key: TEST Actionfit
+      Value: E24BE03A-029E-479E-B522-7873B657778B
+    - Key: POCO
+      Value: 02d383a6-1853-4767-888b-55447bc884a4
+    - Key: Xiaomi Redmi 14C TestPhone
+      Value: 5135b874-8ff1-40d0-98f6-3f17559b6600
+    - Key: Actionfit Test Tab
+      Value: dd656893-5e65-4a53-ac73-f5cb4c9d4b95
+    - Key: "\uC11C\uC6B0"
+      Value: e18bab17-97124033-80a8-0a08de1a016a
+    - Key: "\uC2B9\uC900 Pinkbean Z filp 3"
+      Value: 7114bb5f-423b-46b2-989f-090d02bb3e55
+    - Key: "\uC2B9\uC900 13 Pro"
+      Value: 0BA9A64A-08B0-4362-B379-73475C6971F7
+    - Key: "\uC815\uD6C8"
+      Value: 49F83E1C-B8DD-45E4-A15D-FB810E6B8F98
+    - Key: "\uC218\uC601"
+      Value: f5a819b3-46cd-4023-929a-70891610f38e
+    - Key: "\uD76C\uC131"
+      Value: 80344e62-c41a-4744-9c32-2a0e641252ee
+    - Key: "\uC11D\uD658"
+      Value: 3b4eb599-f670-4340-9b4e-474e6e6e88a5
+    - Key: "\uC7AC\uD604(Lenovo Legion Tap)"
+      Value: 6f22095b-90d8-44d9-b510-794072130d6c
+    - Key: "\uACBD\uBBFC 13\uBBF8\uB2C8"
+      Value: 5F561FF6-BDA7-4DDD-9F9E-61BDEF3E93BC
+    - Key: "\uC720\uC6D0 (S23)"
+      Value: 587f4d0c-9219-4c7f-ae13-fc40301bc7b0
+    - Key: "\uC2A4\uD2F0\uBE10"
+      Value: 302db5b5-9b4f-4a6b-b7fe-644bcb032571
+    - Key: "\uC7AC\uC601 (flip 4)"
+      Value: b2f5d71e-644d-405e-b245-10ca1ad1abe1
+    - Key: "\uC7AC\uC601 (flip 6)"
+      Value: 7aadfa60-e1cf-4884-9ae8-2c0667c0c8ff
+    - Key: "\uC9C0\uD6C8 (\uC544\uC774\uD3F0XR)"
+      Value: 5748A871-6D74-4337-B369-7E19484DCDA2
+    - Key: "\uD61C\uAC15 (\uC544\uC774\uD3F0)"
+      Value: 3E222215-42EE-435B-BC3A-C4F0D4D1080E
+    - Key: "\uD61C\uAC15 (flip 4)"
+      Value: d29e8d72-4396-4d97-8ab6-5715cbca643d
+    - Key: "\uC6A9\uC120 (\uC544\uC774\uD3F0 \uC2AC\uB7A8\uB369\uD06C)"
+      Value: F77C325F-F0E8-48BE-9344-5AE7A1B3F478
+    - Key: "\uC6A9\uC120 (\uC544\uC774\uD3F0 14)"
+      Value: 62482077-A1B5-4EB3-A820-246CF701EB94
+    - Key: "\uC6A9\uC120 (flip)"
+      Value: 236c849c-5a01-4d20-b086-89f512a47d77
+    - Key: "\uB2E4\uC19C (galaxy s25 ultra)"
+      Value: 780f5ccb-3deb-4cc4-9adf-f785c1b2b04e
+    - Key: "\uBBFC\uC218 (galaxy s21)"
+      Value: dd198470-5cbd-4a3d-8334-60dd4a7796d8
+    - Key: "\uC9C4\uC6B0(galaxy s23)"
+      Value: 37b2e3f7-61ab-4f0d-a73c-50e241cfff7c
+    - Key: "\uC9C0\uD638 (galaxy s25 ultra)"
+      Value: 9e3bb325-5997-49ad-9f47-df71886cb918
+    - Key: "\uC9C0\uD638 (\uC544\uC774\uD3F0 14 \uD504\uB85C)"
+      Value: D35B4D22-5D9F-4FD7-8EEF-496036780653
+    - Key: "\uBBFC\uC601 (galaxy s22+)"
+      Value: ddc3cd6d-b146-4bea-a3e2-d95ce837ad5f
+    - Key: "\uBBFC\uC9C0 (\uC544\uC774\uD3F013\uBBF8\uB2C8)"
+      Value: 46BB1A1A-0035-4506-8A40-C41AB47C5FAB
+    - Key: "\uC9C4\uC6B0 (Z\uD50C\uB9BD)"
+      Value: 3d446ee2-b6ec-4f56-9ef5-f57380267a07

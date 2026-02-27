@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15bd9f405f0d4b91afab947707373c39, type: 3}
+  m_Name: Game Popup Registry
+  m_EditorClassIdentifier: AES.Tools::ParkingCat.UI.Popups.PopupRegistry
+  prefabs:
+  - {fileID: 7171256868939466002, guid: bcdd13e945031492591e19a1455f6e77, type: 3}
+  - {fileID: 1482967446343528616, guid: 586e8de01792743968131c91a83115ee, type: 3}
+  - {fileID: 1482967446343528616, guid: 111f0a54b1fea42828344a6b4ed7fe9c, type: 3}
+  - {fileID: 1482967446343528616, guid: 199c6e7e632d840a0af2ad9240a19971, type: 3}
+  - {fileID: 7171256868939466002, guid: 2f17755d333a24812b22670bd4befd0b, type: 3}
+  - {fileID: 7171256868939466002, guid: 9f90dfe875d3547eeac5ec4b14a9101e, type: 3}

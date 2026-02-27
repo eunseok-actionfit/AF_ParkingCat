@@ -1,0 +1,215 @@
+﻿{
+  "mode": "IapStoreProductJson",
+  "rows": [
+    {
+      "ProductKey": "coinpack1_299",
+      "Platform": "GP",
+      "Price": "4400",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "coinpack1_299",
+      "Platform": "IOS",
+      "Price": "4400",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "coinpack2_499",
+      "Platform": "GP",
+      "Price": "6600",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "coinpack2_499",
+      "Platform": "IOS",
+      "Price": "6600",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "coinpack3_899",
+      "Platform": "GP",
+      "Price": "12000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "coinpack3_899",
+      "Platform": "IOS",
+      "Price": "12000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "coinpack4_1599",
+      "Platform": "GP",
+      "Price": "22000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "coinpack4_1599",
+      "Platform": "IOS",
+      "Price": "22000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "coinpack5_2999",
+      "Platform": "GP",
+      "Price": "44000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "coinpack5_2999",
+      "Platform": "IOS",
+      "Price": "44000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "coinpack6_5599",
+      "Platform": "GP",
+      "Price": "77000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "coinpack6_5599",
+      "Platform": "IOS",
+      "Price": "77000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "suvscription3_999",
+      "Platform": "GP",
+      "Price": "14000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "suvscription3_999",
+      "Platform": "IOS",
+      "Price": "14000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "starterpack1_99",
+      "Platform": "GP",
+      "Price": "1100",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "starterpack1_99",
+      "Platform": "IOS",
+      "Price": "1100",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "removeads7day_99",
+      "Platform": "GP",
+      "Price": "9900",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "removeads7day_99",
+      "Platform": "IOS",
+      "Price": "9900",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "gift_pack_1",
+      "Platform": "GP",
+      "Price": "5500",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "gift_pack_1",
+      "Platform": "IOS",
+      "Price": "5500",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "gift_pack_2",
+      "Platform": "GP",
+      "Price": "11000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "gift_pack_2",
+      "Platform": "IOS",
+      "Price": "11000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "gift_pack_3",
+      "Platform": "GP",
+      "Price": "22000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "gift_pack_3",
+      "Platform": "IOS",
+      "Price": "22000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "gift_pack_4",
+      "Platform": "GP",
+      "Price": "44000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "gift_pack_4",
+      "Platform": "IOS",
+      "Price": "44000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "gift_pack_5",
+      "Platform": "GP",
+      "Price": "66000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "gift_pack_5",
+      "Platform": "IOS",
+      "Price": "66000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "gift_pack_6",
+      "Platform": "GP",
+      "Price": "149000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "gift_pack_6",
+      "Platform": "IOS",
+      "Price": "149000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    }
+  ]
+}

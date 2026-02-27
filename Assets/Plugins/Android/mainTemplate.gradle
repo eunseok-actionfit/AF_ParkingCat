@@ -1,0 +1,80 @@
+apply plugin: 'com.android.library'
+apply from: '../shared/keepUnitySymbols.gradle'
+apply from: '../shared/common.gradle'
+**APPLY_PLUGINS**
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+// Android Resolver Dependencies Start
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4' // Packages/com.google.ads.mobile/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:12
+    implementation 'androidx.lifecycle:lifecycle-process:2.6.2' // Packages/com.google.ads.mobile/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:17
+    implementation 'androidx.recyclerview:recyclerview:1.2.1' // Packages/com.applovin.mediation.adapters.mintegral.android/Editor/Dependencies.xml:9
+    implementation 'com.android.installreferrer:installreferrer:2.2' // Packages/singular-unity-package/SingularSDK/Editor/SingularSDKDependencies.xml:8
+    implementation 'com.applovin.mediation:bytedance-adapter:7.8.5.2.0' // Packages/com.applovin.mediation.adapters.bytedance.android/Editor/Dependencies.xml:8
+    implementation 'com.applovin.mediation:google-adapter:[24.9.0.0]' // Packages/com.applovin.mediation.adapters.google.android/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:google-ad-manager-adapter:[24.9.0.0]' // Packages/com.applovin.mediation.adapters.googleadmanager.android/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:mintegral-adapter:17.0.51.0' // Packages/com.applovin.mediation.adapters.mintegral.android/Editor/Dependencies.xml:8
+    implementation 'com.applovin.mediation:unityads-adapter:4.16.5.0' // Packages/com.applovin.mediation.adapters.unityads.android/Editor/Dependencies.xml:4
+    implementation 'com.applovin.mediation:vungle-adapter:7.6.3.0' // Packages/com.applovin.mediation.adapters.vungle.android/Editor/Dependencies.xml:4
+    implementation 'com.applovin:applovin-sdk:13.5.1' // Packages/com.applovin.mediation.ads/AppLovin/Editor/Dependencies.xml:4
+    implementation 'com.google.android.gms:play-services-ads:24.5.0' // Packages/com.google.ads.mobile/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:7
+    implementation 'com.google.android.gms:play-services-ads-identifier:18.0.1' // Packages/singular-unity-package/SingularSDK/Editor/SingularSDKDependencies.xml:10
+    // implementation 'com.google.android.gms:play-services-appset:16.0.0' // Packages/singular-unity-package/SingularSDK/Editor/SingularSDKDependencies.xml:9
+    implementation 'com.google.android.gms:play-services-appset:16.0.2' // Assets/GameAnalytics/Editor/Android/Dependencies.xml:4
+    implementation 'com.google.android.instantapps:instantapps:1.1.0' // Assets/GameAnalytics/Editor/Android/Dependencies.xml:3
+    // implementation 'com.google.android.ump:user-messaging-platform:2.1.0' // Assets/MaxSdk/AppLovin/Editor/Dependencies.xml:4
+    implementation 'com.google.android.ump:user-messaging-platform:3.2.0' // Packages/com.google.ads.mobile/GoogleMobileAds/Editor/GoogleUmpDependencies.xml:7
+    implementation 'com.singular.sdk:singular_sdk:12.10.0' // Packages/singular-unity-package/SingularSDK/Editor/SingularSDKDependencies.xml:7
+// Android Resolver Dependencies End
+**DEPS**}
+
+// Android Resolver Exclusions Start
+android {
+  packaging {
+      exclude ('/lib/armeabi/*' + '*')
+      exclude ('/lib/armeabi-v7a/*' + '*')
+      exclude ('/lib/mips/*' + '*')
+      exclude ('/lib/mips64/*' + '*')
+      exclude ('/lib/x86/*' + '*')
+      exclude ('/lib/x86_64/*' + '*')
+  }
+}
+// Android Resolver Exclusions End
+android {
+    namespace "com.unity3d.player"
+    ndkPath "**NDKPATH**"
+    ndkVersion "**NDKVERSION**"
+
+    compileSdk **APIVERSION**
+    buildToolsVersion = "**BUILDTOOLS**"
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    defaultConfig {
+        minSdk **MINSDK**
+        targetSdk **TARGETSDK**
+        ndk {
+            abiFilters **ABIFILTERS**
+            debugSymbolLevel **DEBUGSYMBOLLEVEL**
+        }
+        versionCode **VERSIONCODE**
+        versionName '**VERSIONNAME**'
+        consumerProguardFiles 'proguard-unity.txt'**USER_PROGUARD**
+**DEFAULT_CONFIG_SETUP**
+    }
+
+    lint {
+        abortOnError false
+    }
+
+    androidResources {
+        noCompress = **BUILTIN_NOCOMPRESS** + unityStreamingAssets.tokenize(', ')
+        ignoreAssetsPattern = "!.svn:!.git:!.ds_store:!*.scc:!CVS:!thumbs.db:!picasa.ini:!*~"
+    }**PACKAGING**
+}
+**IL_CPP_BUILD_SETUP**
+**SOURCE_BUILD_SETUP**
+**EXTERNAL_SOURCES**

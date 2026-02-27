@@ -1,0 +1,233 @@
+﻿{
+  "mode": "IapBundleContentJson",
+  "rows": [
+    {
+      "BundleKey": "starterpack1_99",
+      "ItemType": "Coin",
+      "Amount": "2000",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "starterpack1_99",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "60",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "starterpack1_99",
+      "ItemType": "DoubleStageRewardsMin",
+      "Amount": "60",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "starterpack1_99",
+      "ItemType": "Boosters",
+      "Amount": "1",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_1",
+      "ItemType": "Coin",
+      "Amount": "6000",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "gift_pack_1",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "30",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_1",
+      "ItemType": "DoubleStageRewardsMin",
+      "Amount": "30",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_1",
+      "ItemType": "Boosters",
+      "Amount": "1",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_2",
+      "ItemType": "Coin",
+      "Amount": "14000",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "gift_pack_2",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "60",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_2",
+      "ItemType": "DoubleStageRewardsMin",
+      "Amount": "60",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_2",
+      "ItemType": "Boosters",
+      "Amount": "2",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_3",
+      "ItemType": "Coin",
+      "Amount": "28000",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "gift_pack_3",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "360",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_3",
+      "ItemType": "DoubleStageRewardsMin",
+      "Amount": "360",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_3",
+      "ItemType": "Boosters",
+      "Amount": "4",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_4",
+      "ItemType": "Coin",
+      "Amount": "60000",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "gift_pack_4",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "720",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_4",
+      "ItemType": "DoubleStageRewardsMin",
+      "Amount": "720",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_4",
+      "ItemType": "Boosters",
+      "Amount": "8",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_5",
+      "ItemType": "Coin",
+      "Amount": "100000",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "gift_pack_5",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "1440",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_5",
+      "ItemType": "DoubleStageRewardsMin",
+      "Amount": "1440",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_5",
+      "ItemType": "Boosters",
+      "Amount": "12",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_6",
+      "ItemType": "Coin",
+      "Amount": "240000",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "gift_pack_6",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "4320",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_6",
+      "ItemType": "DoubleStageRewardsMin",
+      "Amount": "4320",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "gift_pack_6",
+      "ItemType": "Boosters",
+      "Amount": "25",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "coinpack1_299",
+      "ItemType": "Coin",
+      "Amount": "6000",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "coinpack2_499",
+      "ItemType": "Coin",
+      "Amount": "12000",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "coinpack3_899",
+      "ItemType": "Coin",
+      "Amount": "25000",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "coinpack4_1599",
+      "ItemType": "Coin",
+      "Amount": "50000",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "coinpack5_2999",
+      "ItemType": "Coin",
+      "Amount": "100000",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "coinpack6_5599",
+      "ItemType": "Coin",
+      "Amount": "200000",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "removeads7day_99",
+      "ItemType": "RemoveAds",
+      "Amount": "7",
+      "IsMain": "TRUE"
+    },
+    {
+      "BundleKey": "removeads7day_99",
+      "ItemType": "Coin",
+      "Amount": "2000",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "removeads7day_99",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "60",
+      "IsMain": "FALSE"
+    },
+    {
+      "BundleKey": "removeads7day_99",
+      "ItemType": "Boosters",
+      "Amount": "1",
+      "IsMain": "FALSE"
+    }
+  ]
+}

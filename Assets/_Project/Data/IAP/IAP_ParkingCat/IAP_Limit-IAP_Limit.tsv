@@ -1,0 +1,4 @@
+ProductKey	LimitType	LimitValue	ResetType	Note
+상품 키	제한 타입(ONE_TIME 등)	제한 수치	리셋 기준(ACCOUNT/DAY 등)	설명
+starterpack1_99	ONE_TIME	1	ACCOUNT	초회 한정
+suvscription3_999	ONE_TIME	1	DAY	

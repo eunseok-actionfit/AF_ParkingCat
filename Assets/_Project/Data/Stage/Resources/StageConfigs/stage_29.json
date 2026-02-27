@@ -1,0 +1,747 @@
+{
+    "StageId": 29,
+    "Variant": 0,
+    "Width": 14,
+    "Height": 24,
+    "MoveLimit": 28,
+    "Difficulty": 0,
+    "Road01": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "Cars": [
+        {
+            "CarId": 1,
+            "Length": 2,
+            "HeadCell": {
+                "x": 3,
+                "y": 17
+            },
+            "Dir": 2,
+            "TurnProgram": [
+                2
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 2,
+            "Length": 2,
+            "HeadCell": {
+                "x": 3,
+                "y": 16
+            },
+            "Dir": 3,
+            "TurnProgram": [],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 3,
+            "Length": 2,
+            "HeadCell": {
+                "x": 3,
+                "y": 14
+            },
+            "Dir": 2,
+            "TurnProgram": [
+                2
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 4,
+            "Length": 2,
+            "HeadCell": {
+                "x": 6,
+                "y": 16
+            },
+            "Dir": 3,
+            "TurnProgram": [],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 6,
+            "Length": 2,
+            "HeadCell": {
+                "x": 7,
+                "y": 17
+            },
+            "Dir": 2,
+            "TurnProgram": [
+                2,
+                2
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 7,
+            "Length": 2,
+            "HeadCell": {
+                "x": 7,
+                "y": 15
+            },
+            "Dir": 0,
+            "TurnProgram": [],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 8,
+            "Length": 2,
+            "HeadCell": {
+                "x": 6,
+                "y": 14
+            },
+            "Dir": 2,
+            "TurnProgram": [
+                2
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 9,
+            "Length": 2,
+            "HeadCell": {
+                "x": 6,
+                "y": 12
+            },
+            "Dir": 3,
+            "TurnProgram": [],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 10,
+            "Length": 2,
+            "HeadCell": {
+                "x": 10,
+                "y": 17
+            },
+            "Dir": 2,
+            "TurnProgram": [
+                1
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 11,
+            "Length": 2,
+            "HeadCell": {
+                "x": 9,
+                "y": 16
+            },
+            "Dir": 3,
+            "TurnProgram": [],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 12,
+            "Length": 2,
+            "HeadCell": {
+                "x": 10,
+                "y": 14
+            },
+            "Dir": 2,
+            "TurnProgram": [
+                2,
+                2
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 13,
+            "Length": 2,
+            "HeadCell": {
+                "x": 10,
+                "y": 11
+            },
+            "Dir": 0,
+            "TurnProgram": [],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 14,
+            "Length": 2,
+            "HeadCell": {
+                "x": 10,
+                "y": 9
+            },
+            "Dir": 0,
+            "TurnProgram": [
+                1
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 15,
+            "Length": 2,
+            "HeadCell": {
+                "x": 8,
+                "y": 7
+            },
+            "Dir": 3,
+            "TurnProgram": [
+                2,
+                2
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 16,
+            "Length": 2,
+            "HeadCell": {
+                "x": 9,
+                "y": 6
+            },
+            "Dir": 0,
+            "TurnProgram": [
+                2
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 17,
+            "Length": 2,
+            "HeadCell": {
+                "x": 7,
+                "y": 6
+            },
+            "Dir": 0,
+            "TurnProgram": [],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 18,
+            "Length": 2,
+            "HeadCell": {
+                "x": 6,
+                "y": 6
+            },
+            "Dir": 0,
+            "TurnProgram": [],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 19,
+            "Length": 2,
+            "HeadCell": {
+                "x": 4,
+                "y": 6
+            },
+            "Dir": 0,
+            "TurnProgram": [
+                1
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 20,
+            "Length": 2,
+            "HeadCell": {
+                "x": 5,
+                "y": 7
+            },
+            "Dir": 1,
+            "TurnProgram": [
+                1,
+                1
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 21,
+            "Length": 2,
+            "HeadCell": {
+                "x": 6,
+                "y": 9
+            },
+            "Dir": 0,
+            "TurnProgram": [
+                2
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 22,
+            "Length": 2,
+            "HeadCell": {
+                "x": 7,
+                "y": 9
+            },
+            "Dir": 0,
+            "TurnProgram": [
+                1
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 23,
+            "Length": 2,
+            "HeadCell": {
+                "x": 6,
+                "y": 11
+            },
+            "Dir": 0,
+            "TurnProgram": [
+                1
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 24,
+            "Length": 2,
+            "HeadCell": {
+                "x": 3,
+                "y": 11
+            },
+            "Dir": 0,
+            "TurnProgram": [
+                2,
+                2
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 25,
+            "Length": 2,
+            "HeadCell": {
+                "x": 3,
+                "y": 8
+            },
+            "Dir": 2,
+            "TurnProgram": [
+                1
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        },
+        {
+            "CarId": 26,
+            "Length": 2,
+            "HeadCell": {
+                "x": 6,
+                "y": 17
+            },
+            "Dir": 2,
+            "TurnProgram": [
+                2
+            ],
+            "Type": 0,
+            "EscapeMoveLimit": 5,
+            "InitialCashGold": 0
+        }
+    ],
+    "TrafficLights": [
+        {
+            "Id": 1,
+            "WorldPos": {
+                "x": 8.5,
+                "y": 10.5
+            },
+            "LineDir": 3,
+            "PhaseOffsetSeconds": 0.0
+        }
+    ],
+    "OneWayLanes": [
+        {
+            "StartCell": {
+                "x": 4,
+                "y": 12
+            },
+            "Dir": 1,
+            "Length": 2,
+            "Thickness": 1,
+            "LaneIndex": 0,
+            "AllowedDir": 3
+        },
+        {
+            "StartCell": {
+                "x": 8,
+                "y": 12
+            },
+            "Dir": 1,
+            "Length": 2,
+            "Thickness": 1,
+            "LaneIndex": 0,
+            "AllowedDir": 3
+        }
+    ]
+}

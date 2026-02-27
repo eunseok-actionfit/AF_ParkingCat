@@ -1,0 +1,110 @@
+﻿{
+  "mode": "IapProductJson",
+  "rows": [
+    {
+      "ProductKey": "coinpack1_299",
+      "ProductType": "Consumable",
+      "Category": "Coin",
+      "IsVisible": "TRUE",
+      "Note": "\"6,000 Coin\""
+    },
+    {
+      "ProductKey": "coinpack2_499",
+      "ProductType": "Consumable",
+      "Category": "Coin",
+      "IsVisible": "TRUE",
+      "Note": "\"12,000 Coin\""
+    },
+    {
+      "ProductKey": "coinpack3_899",
+      "ProductType": "Consumable",
+      "Category": "Coin",
+      "IsVisible": "TRUE",
+      "Note": "\"25,000 Coin\""
+    },
+    {
+      "ProductKey": "coinpack4_1599",
+      "ProductType": "Consumable",
+      "Category": "Coin",
+      "IsVisible": "TRUE",
+      "Note": "\"50,000 Coin\""
+    },
+    {
+      "ProductKey": "coinpack5_2999",
+      "ProductType": "Consumable",
+      "Category": "Coin",
+      "IsVisible": "TRUE",
+      "Note": "\"100,000 Coin\""
+    },
+    {
+      "ProductKey": "coinpack6_5599",
+      "ProductType": "Consumable",
+      "Category": "Coin",
+      "IsVisible": "TRUE",
+      "Note": "\"200,000 Coin\""
+    },
+    {
+      "ProductKey": "subscription3_999",
+      "ProductType": "Subscription",
+      "Category": "Special",
+      "IsVisible": "TRUE",
+      "Note": "VIP Subscription(30일)"
+    },
+    {
+      "ProductKey": "starterpack1_99",
+      "ProductType": "Consumable",
+      "Category": "Special",
+      "IsVisible": "TRUE",
+      "Note": "Starter Pack"
+    },
+    {
+      "ProductKey": "removeads7day_99",
+      "ProductType": "NonConsumable",
+      "Category": "Special",
+      "IsVisible": "TRUE",
+      "Note": "No ADS"
+    },
+    {
+      "ProductKey": "gift_pack_1",
+      "ProductType": "Consumable",
+      "Category": "Bundle",
+      "IsVisible": "TRUE",
+      "Note": "Starting Pack"
+    },
+    {
+      "ProductKey": "gift_pack_2",
+      "ProductType": "Consumable",
+      "Category": "Bundle",
+      "IsVisible": "TRUE",
+      "Note": "Shift-Up Pack"
+    },
+    {
+      "ProductKey": "gift_pack_3",
+      "ProductType": "Consumable",
+      "Category": "Bundle",
+      "IsVisible": "TRUE",
+      "Note": "Acceleration Pack"
+    },
+    {
+      "ProductKey": "gift_pack_4",
+      "ProductType": "Consumable",
+      "Category": "Bundle",
+      "IsVisible": "TRUE",
+      "Note": "High Speed Pack"
+    },
+    {
+      "ProductKey": "gift_pack_5",
+      "ProductType": "NonConsumable",
+      "Category": "Bundle",
+      "IsVisible": "TRUE",
+      "Note": "Super Speed Pack"
+    },
+    {
+      "ProductKey": "gift_pack_6",
+      "ProductType": "Consumable",
+      "Category": "Bundle",
+      "IsVisible": "TRUE",
+      "Note": "Extreme Speed Pack"
+    }
+  ]
+}

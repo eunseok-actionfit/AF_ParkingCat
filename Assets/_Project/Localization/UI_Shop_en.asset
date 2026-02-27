@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Shop_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a81df8b4851114dceb33b014b7914cdc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 29988216832
+    m_Localized: 6,000 Coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597888
+    m_Localized: 12,000 Coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597889
+    m_Localized: 25,000 Coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597890
+    m_Localized: 50,000 Coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597891
+    m_Localized: 100,000 Coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597892
+    m_Localized: 200,000 Coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597893
+    m_Localized: VIP Subscription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597894
+    m_Localized: Starter Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597895
+    m_Localized: No ADS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597896
+    m_Localized: Starting Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597897
+    m_Localized: Shift-Up Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597898
+    m_Localized: Acceleration Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597899
+    m_Localized: High Speed Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597900
+    m_Localized: Super Speed Pack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000818597901
+    m_Localized: Extreme Speed Pack
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
